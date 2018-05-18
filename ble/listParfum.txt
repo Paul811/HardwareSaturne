@@ -1,0 +1,41 @@
+-- Fichier liste de parfum --
+-- Format : NomParfum      --
+--	    ValeurCpt      --
+
+Sauvage
+5000
+Coco
+52
+AucunParfum
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
